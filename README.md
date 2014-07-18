@@ -1,5 +1,5 @@
 sunRays
 =======
-tushar  : https://github.com/tusharvjoshi
-swaroop : https://github.com/swaroopgokhale
-sneha   : https://github.com/SnehaHogade
+tushar  : https://github.com/tusharvjoshi <br/>
+swaroop : https://github.com/swaroopgokhale <br/>
+sneha   : https://github.com/SnehaHogade <br/>
