@@ -5,6 +5,8 @@ swaroop : https://github.com/swaroopgokhale <br/>
 sneha   : https://github.com/SnehaHogade <br/>
 <br/>
 <br/>
+http://spring.io/blog
+<br/>
 https://blogs.oracle.com/enterprisetechtips/entry/jersey_and_spring
 <br/>
 http://technoless.wordpress.com/2013/04/02/spring-rest-vs-jersey-jax-rs/
