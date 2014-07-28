@@ -19,6 +19,7 @@ http://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/testing.
 <br/>
 http://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/testing.html
 <br/>
+http://www.infoq.com/articles/springmvc_jsx-rs
 <br/>
 <br/>
 <br/>
