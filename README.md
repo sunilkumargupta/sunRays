@@ -1,9 +1,13 @@
-sunRays : http://springshr.blogspot.in/
+
+POC : http://springshr.blogspot.in/
 =======
+GitHub<br/><br/>
 tushar  : https://github.com/tusharvjoshi <br/>
 swaroop : https://github.com/swaroopgokhale <br/>
 sneha   : https://github.com/SnehaHogade <br/>
-<br/>
+<br/><br/>
+
+Good Read:
 <br/>
 http://spring.io/blog
 <br/>
@@ -20,6 +24,19 @@ http://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/testing.
 http://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/testing.html
 <br/>
 http://www.infoq.com/articles/springmvc_jsx-rs
+<br/>
+https://blogs.oracle.com/enterprisetechtips/entry/jersey_and_spring
+<br/>
+http://howtodoinjava.com/2013/05/08/spring-beans-autowiring-concepts/
+<br/>
+http://www.studytrails.com/frameworks/spring/spring-auto-wire-annotation-jsr-330.jsp
+<br/>
+http://www.tutorialspoint.com/spring/index.htm
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
