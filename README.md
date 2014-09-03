@@ -1,8 +1,19 @@
+<pre>
 mvn archetype:generate -DgroupId=com.sunRays -DartifactId=SpringCoreExamples -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 <br/>
 mvn dependency:copy-dependencies
 
+<br/>
 
+3.1.0.BUILD-SNAPSHOT - nightly snapshot of 3.1.0 development
+3.1.0.M1             - first milestone release toward 3.1.0 GA
+3.1.0.M2             - second milestone release toward 3.1.0 GA
+3.1.0.RC1            - first release candidate toward 3.1.0 GA
+3.1.0.RC2            - second release candidate toward 3.1.0 GA
+3.1.0.RELEASE        - final GA (generally available) release of 3.1.0
+3.1.1.BUILD-SNAPSHOT - nightly snapshot of the 3.1.1 maintenance release
+3.1.1.RELEASE        - final GA release of 3.1.1 
+</pre>
 
 <br/>Questions & Answers
 <br/>
