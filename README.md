@@ -1,4 +1,5 @@
 mvn archetype:generate -DgroupId=com.sunRays -DartifactId=SpringCoreExamples -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+<br/>
 mvn dependency:copy-dependencies
 
 
